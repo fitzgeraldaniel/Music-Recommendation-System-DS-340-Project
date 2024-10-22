@@ -21,9 +21,11 @@ This Github is based off the original github found here, and includes our change
 1. MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement
 Authors: Yunhak Oh, Sukwon Yun, Dongmin Hyun, Sein Kim, Chanyoung Park
 Summary: The MUSE framework introduces a self-supervised algorithm that enhances music recommendations during shuffle play sessions. It tackles the noise introduced by random song selections and employs transition-based augmentation and fine-grained matching strategies.
+
 2. Learning Content Similarity for Music Recommendation
 Authors: Brian McFee, Gert Lanckriet, Luke Barrington
 Summary: This paper addresses the cold-start problem in recommendation systems by proposing a hybrid approach that integrates collaborative filtering (CF) data with content-based audio similarity. It utilizes Vector Quantization (VQ) of audio features to improve recommendation accuracy for lesser-known tracks.
+
 3. Why People Skip Music? On Predicting Music Skips using Deep Reinforcement Learning
 Authors: Francesco Meggetto, Crawford Revie, John Levine, Yashar Moshfeghi
 Summary: This research investigates user skipping behavior on music streaming platforms using Deep Reinforcement Learning (DRL). By analyzing large-scale user interaction data, the study develops a model to predict when and why users skip songs, leading to more effective and personalized recommendations.
@@ -39,9 +41,10 @@ This large-scale dataset includes millions of user interactions on Spotify, capt
 # User Interaction Data:
 
 We analyze large volumes of user interaction data that track song skips, listens, and user ratings across different platforms. This data includes:
-Song Attributes: Features such as genre, tempo, artist popularity, and release year.
-User Preferences: Information derived from user profiles, listening history, and feedback.
-Skip Behavior Data: Instances of song skips, including timestamps and contextual factors like time spent on each song.
+- Song Attributes: Features such as genre, tempo, artist popularity, and release year.
+- User Preferences: Information derived from user profiles, listening history, and feedback.
+- Skip Behavior Data: Instances of song skips, including timestamps and contextual factors like time spent on each song.
+
 Audio Feature Datasets:
 
 We extract low-level audio features (e.g., Mel-frequency cepstral coefficients, spectral contrast) from songs to enhance content-based similarity assessments. These features help us understand the acoustic characteristics of songs and how they relate to user preferences.
@@ -49,9 +52,9 @@ We extract low-level audio features (e.g., Mel-frequency cepstral coefficients, 
 # Methodology
 Our system integrates the methodologies from the three papers to create a comprehensive recommendation engine:
 
-Shuffle Play Handling: Implementing the MUSE framework, we utilize self-supervised learning to improve recommendations during shuffle play sessions by mitigating the noise caused by random track transitions.
-Cold-Start Problem Solution: We employ hybrid techniques combining collaborative filtering with content-based approaches to ensure accurate recommendations for new and less popular songs.
-Skip Prediction: By applying deep reinforcement learning, we predict user skipping behavior, adjusting recommendations in real-time to align with user preferences and enhance satisfaction.
+- Shuffle Play Handling: Implementing the MUSE framework, we utilize self-supervised learning to improve recommendations during shuffle play sessions by mitigating the noise caused by random track transitions.
+- Cold-Start Problem Solution: We employ hybrid techniques combining collaborative filtering with content-based approaches to ensure accurate recommendations for new and less popular songs.
+- Skip Prediction: By applying deep reinforcement learning, we predict user skipping behavior, adjusting recommendations in real-time to align with user preferences and enhance satisfaction.
 
 # Results
 Preliminary results indicate significant improvements in recommendation accuracy and user satisfaction:
