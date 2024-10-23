@@ -7,15 +7,14 @@
         <img src="https://img.shields.io/badge/CIKM'23-green" /></a>
 </p>
 
-The official source code for "[MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement](https://arxiv.org/abs/2308.09649)", accepted at CIKM 2023.
-
-
 ## Overview
 
-Overview
 This project aims to develop an advanced Music Recommendation System by combining methodologies from three influential research papers: MUSE, Learning Content Similarity for Music Recommendation, and Why People Skip Music? On Predicting Music Skips using Deep Reinforcement Learning. Our goal is to create a more robust recommendation system that effectively addresses the challenges of shuffle play sessions, the cold-start problem, and song skip prediction.
 
 This Github is based off the original github found here, and includes our changes and improvements to this project: https://github.com/yunhak0/MUSE/blob/main/README.md 
+The files have all been updated by us and are working October 2024. 
+
+The pre processed data for this project can be found here: https://drive.google.com/drive/folders/1vELTnKD8w92663l6bTZXCFVkyTSndIPl?dmr=1&ec=wgc-drive-hero-goto 
 
 # Research Papers
 1. MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement
@@ -73,5 +72,5 @@ Performance Evaluation: Conduct extensive A/B testing to compare our system agai
 By synthesizing insights from the MUSE framework, content similarity learning, and skip prediction models, we are creating a music recommendation system that not only addresses the unique challenges posed by shuffle play but also improves overall user satisfaction and engagement.
 
 <p float="middle">
-  <img src="https://github.com/yunhak0/MUSE/assets/40286691/5eaf7132-9df0-4ff8-820c-88fc646c1f62" width="51.5%" /><img src="https://github.com/yunhak0/MUSE/assets/40286691/a6296eca-cd3c-4741-b069-7dbaac535bee" width="40%" /> 
+
 </p>
