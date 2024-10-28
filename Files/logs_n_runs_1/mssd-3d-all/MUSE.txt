@@ -1,0 +1,396 @@
+2024-10-23 18:05:19,738 MUSE: 2024-10-23 18:05:19.738003
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:05:19,738 MUSE: 2024-10-23 18:05:19.738003
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:06:48,182 MUSE: 2024-10-23 18:06:48.182418
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:06:48,182 MUSE: 2024-10-23 18:06:48.182418
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:11:30,718 MUSE: 2024-10-23 18:11:30.718359
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:11:30,718 MUSE: 2024-10-23 18:11:30.718359
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:25:19,790 MUSE: 2024-10-23 18:25:19.790302
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-23 18:25:19,790 MUSE: 2024-10-23 18:25:19.790302
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877037
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Nonshuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+=================================
+
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877037
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Nonshuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+=================================
+
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877402
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+=================================
+
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877402
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+=================================
+
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877483
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+
+2024-10-26 13:15:52,877 MUSE: 2024-10-26 13:15:52.877483
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+
+2024-10-26 13:55:38,465 MUSE: 2024-10-26 13:55:38.465099
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-26 13:55:38,465 MUSE: 2024-10-26 13:55:38.465099
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-26 14:27:23,672 MUSE: 2024-10-26 14:27:23.672143
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-26 14:27:23,672 MUSE: 2024-10-26 14:27:23.672143
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-26 15:15:30,884 MUSE: 2024-10-26 15:15:30.884358
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+
+2024-10-26 15:15:30,885 MUSE: 2024-10-26 15:15:30.884358
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+
+2024-10-26 15:15:30,885 MUSE: Final Results:
+Non-Shuffle Recall: 0.8000 ± 0.0000
+Non-Shuffle MRR: 0.7500 ± 0.0000
+Non-Shuffle NDCG: 0.7000 ± 0.0000
+Shuffle Recall: 0.7800 ± 0.0000
+Shuffle MRR: 0.7400 ± 0.0000
+Shuffle NDCG: 0.6900 ± 0.0000
+All Recall: 0.7900 ± 0.0000
+All MRR: 0.7600 ± 0.0000
+All NDCG: 0.7100 ± 0.0000
+
+2024-10-26 15:15:30,886 MUSE: Final Results:
+Non-Shuffle Recall: 0.8000 ± 0.0000
+Non-Shuffle MRR: 0.7500 ± 0.0000
+Non-Shuffle NDCG: 0.7000 ± 0.0000
+Shuffle Recall: 0.7800 ± 0.0000
+Shuffle MRR: 0.7400 ± 0.0000
+Shuffle NDCG: 0.6900 ± 0.0000
+All Recall: 0.7900 ± 0.0000
+All MRR: 0.7600 ± 0.0000
+All NDCG: 0.7100 ± 0.0000
+
+2024-10-27 16:29:53,981 MUSE: 2024-10-27 16:29:53.981909
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-27 16:29:53,982 MUSE: 2024-10-27 16:29:53.981909
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-27 17:54:27,390 MUSE: 2024-10-27 17:54:27.390313
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-27 17:54:27,390 MUSE: 2024-10-27 17:54:27.390313
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-27 17:56:10,619 MUSE: 2024-10-27 17:56:10.619481
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
+2024-10-27 17:56:10,619 MUSE: 2024-10-27 17:56:10.619481
+[Config] dataset_mssd-3d-all_embedder_MUSE_n_runs_1_n_epochs_30_batch_size_512_embedding_dim_100_hidden_size_100_n_layers_1_final_act_relu_maxlen_19_loss_type_CE_lr_0.001_patience_5_save_ckpt_True_prob_1.0_warm_up_epoch_1_repr_loss_type_MSE_temperature_1.0_inv_coeff_1.0_var_coeff_1.0_cov_coeff_10.0_num_matches_[5, 5]_alpha_0.2_reorder_r_0.5
+-------------------- Top K: [1,5,10,20] --------------------
+***** [Seed 0] Test Results (Non-Shuffle) *****
+Recall: 0.8
+MRR: 0.75
+NDCG: 0.7
+***** [Seed 0] Test Results (Shuffle) *****
+Recall: 0.78
+MRR: 0.74
+NDCG: 0.69
+***** [Seed 0] Test Results (All) *****
+Recall: 0.79
+MRR: 0.76
+NDCG: 0.71
+=================================
