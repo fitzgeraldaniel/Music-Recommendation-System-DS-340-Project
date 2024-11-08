@@ -7,6 +7,8 @@
         <img src="https://img.shields.io/badge/CIKM'23-green" /></a>
 </p>
 
+## Main Note: Python files to run in directory are muse_run.py and muse_shuffle_play.py
+
 ## Overview
 
 This project aims to develop an advanced Music Recommendation System by combining methodologies from three influential research papers: MUSE, Learning Content Similarity for Music Recommendation, and Why People Skip Music? On Predicting Music Skips using Deep Reinforcement Learning. Our goal is to create a more robust recommendation system that effectively addresses the challenges of shuffle play sessions, the cold-start problem, and song skip prediction.
