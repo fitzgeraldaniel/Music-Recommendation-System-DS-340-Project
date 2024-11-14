@@ -7,7 +7,8 @@
         <img src="https://img.shields.io/badge/CIKM'23-green" /></a>
 </p>
 
-## Main Note: Python files to run in directory are muse_run.py and muse_shuffle_play.py
+## Main Note: Original python files to run in directory are muse_run.py and muse_shuffle_play.py
+We have then edited and improved these files by improving skip prediction and cold start problem elements in the files muse_run_improved.py and muse_shuffle_play_improved.py
 
 ## Overview
 
