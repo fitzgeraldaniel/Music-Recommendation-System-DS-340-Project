@@ -111,9 +111,9 @@ def calculate_metrics(model, data_loader):
             predicted = torch.argmax(output, dim=1)
             total_correct += (predicted == y_batch).sum().item()
             total_samples += y_batch.size(0)
-    accuracy = total_correct / total_samples
-    logging.info(f"Calculated Accuracy: {accuracy:.4f}")
-    return {"Accuracy": accuracy}
+    Recall = total_correct / total_samples
+    logging.info(f"Calculated Recall: {Recall:.4f}")
+    return {"Recall": Recall}
 
 # Training Loop
 def train_model(model, data_loader, loss_fn, optimizer, epochs=5):
